@@ -1,0 +1,12 @@
+com\doggy\doggycommon\model\entity\Post.class
+com\doggy\doggycommon\model\vo\PostVO.class
+com\doggy\doggycommon\model\entity\UserInterfaceInfo.class
+com\doggy\doggycommon\model\enums\PostGenderEnum.class
+com\doggy\doggycommon\model\vo\UserVO.class
+com\doggy\doggycommon\model\entity\User.class
+com\doggy\doggycommon\service\InnerUserService.class
+com\doggy\doggycommon\service\InnerUserInterfaceInfoService.class
+com\doggy\doggycommon\model\enums\PostReviewStatusEnum.class
+com\doggy\doggycommon\model\enums\InterfaceInfoStatusEnum.class
+com\doggy\doggycommon\model\entity\InterfaceInfo.class
+com\doggy\doggycommon\service\InnerInterfaceInfoService.class

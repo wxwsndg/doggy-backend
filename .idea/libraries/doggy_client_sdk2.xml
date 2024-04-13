@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doggy-client-sdk2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/doggy-client-sdk2/target/doggy-client-sdk2-0.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/doggy-client-sdk2/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
